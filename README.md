@@ -80,7 +80,7 @@ print(summary)
 
 ## Contributing
 
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/VixuxOG/document-summarization).
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
 
