@@ -1,5 +1,3 @@
-# Document-Summarization-System
-
 # Document Summarization System
 
 This is a Python-based document summarization system that uses the TextRank algorithm to generate concise summaries of text documents.
